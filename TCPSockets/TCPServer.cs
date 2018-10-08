@@ -34,9 +34,12 @@ namespace TCPSockets
                 #region code to deploy in the final version
                 //string fileName = "/dev/ttyACM0";
                 //using (var file = File.OpenRead(fileName))
-                //    using(var fileReader = new StreamReader(file, Encoding.UTF8, true, 1024))
+                //using (var fileReader = new StreamReader(file, Encoding.UTF8, true, 1024))
                 //{
-
+                //    while ( (data = fileReader.ReadLine()) != null)
+                //    {
+                //        Console.WriteLine(data + "\n");
+                //    }
                 //}
                 #endregion
                 data += Encoding.ASCII.GetString(bytes, 0, x); //decodifica i dati, creando una stringa
