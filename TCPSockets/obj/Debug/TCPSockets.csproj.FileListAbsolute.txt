@@ -1,0 +1,7 @@
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\bin\Debug\TCPSockets.exe.config
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\bin\Debug\TCPSockets.exe
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\bin\Debug\TCPSockets.pdb
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\obj\Debug\TCPSockets.csprojAssemblyReference.cache
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\obj\Debug\TCPSockets.csproj.CoreCompileInputs.cache
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\obj\Debug\TCPSockets.exe
+C:\Users\lneri\source\repos\TCPSockets\TCPSockets\obj\Debug\TCPSockets.pdb
